@@ -6,3 +6,4 @@ torch==2.9.1+cpu
 redis==5.0.1
 accelerate==0.25.0
 gunicorn==21.2.0
+python-dotenv==1.0.1
